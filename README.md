@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Chaotic-RPM</h2>
-  <p align="center">COPR repository compiled for **x86_64-v3** .</p>
+  <p align="center">COPR repository compiled for x86_64-v3.</p>
    <p align="center">Goodies from CachyOS ported to Fedora 44, 43 and Rawhide, highly optimized for modern CPUs.</p>
 </div>
 
