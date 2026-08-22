@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Chaotic-RPM</h2>
-  <p align="center">COPR repository compiled for x86_64-v3.</p>
-   <p align="center">Goodies from CachyOS ported to Fedora 44, 43 and Rawhide, highly optimized for modern CPUs.</p>
+  <p align="center">COPR repository compiled for x86_64-v3.<br>Goodies from CachyOS ported to Fedora 44, 43 and Rawhide, highly optimized for modern CPUs.</p>
 </div>
 
 The **x86-64-v3** counterpart to my other COPR, **[Chaotic-Blackbird](https://github.com/Kasull-454/chaotic-blackbird)**, extended with packages for this microarchitecture to ensure high performance across a wide range of hardware, while fully respecting the **[CachyOS](https://cachyos.org/)** philosophy brought over to Fedora.
