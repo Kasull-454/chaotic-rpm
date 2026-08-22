@@ -5,8 +5,7 @@
 
 The **x86-64-v3** counterpart to my other COPR, [Chaotic-Blackbird](https://github.com/Kasull-454/chaotic-blackbird) (Fork of the gh4rib/copr-linux-cachyos COPR repo), extended with packages for this microarchitecture to ensure high performance across a wide range of hardware, while fully respecting the [CachyOS](https://cachyos.org/) philosophy brought over to Fedora.
 
-> **WARNING:** The packages in this repository are compiled with the **x86-64-v3** microarchitecture flag and will **NOT work** on older CPUs that lack support for it (triggering an "illegal instruction" error or a kernel panic on boot).
-> Requires support for v3 line instructions: **AVX, AVX2, FMA, BMI1, BMI2, MOVBE, and LZCNT** (roughly Intel 4th Gen *Haswell* / AMD *Zen 1* CPUs and newer). If you are using older hardware (v1 or v2), please use the standard repositories.
+> **WARNING:** The packages in this repository are compiled with the **x86-64-v3** microarchitecture flag and will **NOT work** on older CPUs that lack support for it (triggering an "illegal instruction" error or a kernel panic on boot).<br>Requires support for v3 line instructions: **AVX, AVX2, FMA, BMI1, BMI2, MOVBE, and LZCNT** (roughly Intel 4th Gen *Haswell* / AMD *Zen 1* CPUs and newer). If you are using older hardware (v1 or v2), please use the standard repositories.
 
 If your CPU supports the AVX-512 instruction set, you can use the v4 version, [Chaotic-Blackbird](https://github.com/Kasull-454/chaotic-blackbird).
 
