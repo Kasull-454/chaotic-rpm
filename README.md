@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Chaotic-RPM</h2>
-  <p align="center">COPR repository compiled for x86_64-v3<br>Goodies from CachyOS ported to Fedora 44, 43 and Rawhide, highly optimized for modern CPUs</p>
+  <p align="center">COPR repository inspired by [Chaotic-AUR](https://aur.chaotic.cx/)</p>
 </div>
 
-A personal COPR repository featuring various RPM packages and `.spec` files for daily use on Fedora, inspired by [Chaotic-AUR](https://aur.chaotic.cx/).
+A personal COPR repository featuring various RPM packages and `.spec` files for daily use on Fedora.
 
 Unlike microarchitecture-specific repo, [chaotic-blackbird](https://github.com/Kasull-454/chaotic-blackbird), the packages in this repository are compiled **without CPU optimizations** (standard generic x86-64), ensuring full compatibility across all hardware supported by Fedora.
 
